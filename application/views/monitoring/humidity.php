@@ -1,0 +1,1 @@
+<h1><?= $humidity->humidity ?></h1>

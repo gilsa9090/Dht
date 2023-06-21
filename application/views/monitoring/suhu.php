@@ -1,0 +1,1 @@
+<h1><?= $suhu->temperature ?></h1>
